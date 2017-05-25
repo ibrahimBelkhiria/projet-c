@@ -3,6 +3,7 @@
 #include <windows.h>
 #include <stdlib.h>
 #include <string.h>
+/* voici ma premier commentaire */
 /*
 les valeurs:
 0: noir
